@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+}
+a{
+    color: #9e3333;
+}
+p{
+    color:#002f35;
+}
+#bg{
+    background-image: url("images/bg.gif");
+    background-repeat: repeat;
+    
+}
+.center{
+    margin:auto;
+    text-align: center;
+    border: 5px solid #ba42e9;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.font{
+    font-family: cursive;
+    text-shadow: 1px 1px #002f35;
+}
+.image{
+    vertical-align: middle;
+    height: 40px;
+}
+.bottom{
+    vertical-align: bottom;
+}
