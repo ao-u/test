@@ -5,28 +5,37 @@ a{
     color: #9e3333;
 }
 p{
-    color:#002f35;
+    color:#00aac0;
 }
 #bg{
-    background-image: url("images/bg.gif");
+    background-image: url("images/bg3.gif");
     background-repeat: repeat;
     
 }
 .center{
     margin:auto;
     text-align: center;
-    border: 5px solid #ba42e9;
+    
+}
+.box{
+    border: 5px solid #340049;
     margin-left: 20%;
     margin-right: 20%;
 }
 .font{
     font-family: cursive;
-    text-shadow: 1px 1px #002f35;
+    text-shadow: 1px 1px #00e1ff;
 }
 .image{
     vertical-align: middle;
     height: 40px;
 }
 .bottom{
-    vertical-align: bottom;
+    
+}
+.all{
+    margin: 10px;
+    position:absolute;
+    top:0;bottom:0; 
+    left:0;right:0; 
 }
